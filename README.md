@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender Agent
 
-A simple, production-ready movie recommender agent using OpenAI, Tavily for real-time search, and Judgeval for tracing and evaluation.
+A movie recommender agent using OpenAI, Tavily for real-time search, and Judgeval for tracing and evaluation.
 
 ---
 
